@@ -1,0 +1,12 @@
+# Ignore smali extracted directories
+snake_smali/
+*.apk
+
+# IDE files
+.idea/
+*.iml
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
